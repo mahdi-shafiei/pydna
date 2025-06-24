@@ -12,6 +12,7 @@ Modules
    pydna_amplicon
    pydna_amplify
    pydna_assembly
+   pydna_assembly2
    pydna_codon
    pydna_common_sub_strings
    pydna_conftest
@@ -21,7 +22,6 @@ Modules
    pydna_download
    pydna_dseq
    pydna_dseqrecord
-   pydna_editor
    pydna_fakeseq
    pydna_fusionpcr
    pydna_gateway
@@ -33,8 +33,6 @@ Modules
    pydna_goldengate
    pydna_ladders
    pydna_ligate
-   pydna_myenzymes
-   pydna_myprimers
    pydna_parsers
    pydna_primer
    pydna_readers
@@ -43,5 +41,6 @@ Modules
    pydna_sequence_picker
    pydna_threading_timer_decorator_exit
    pydna_tm
+   pydna_types
    pydna_user_cloning
    pydna_utils
